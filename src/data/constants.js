@@ -10,15 +10,15 @@ export const Bio = {
   github: "https://github.com/KuyaAC",
   resume:
     "https://drive.google.com/file/d/15LHpMFTuCEvVvA1i-eUECkiWI2F-OXKs/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
+  linkedin: "https://www.linkedin.com/in/allen-carl-delas-alas-7a314326a/",
+  twitter: "https://discord.com/users/1018060471091335280",
   insta: "https://www.instagram.com/its.ac.forshort/",
   facebook: "https://www.facebook.com/allencarl.delasalas/",
 };
 
 export const skills = [
   {
-    title: "Sourscing Skills",
+    title: "Sourcing Skills",
     skills: [
       {
         name: "Manual Sourcing",

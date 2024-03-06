@@ -126,7 +126,7 @@ const Skills = () => {
     <Container id="skills">
       <Wrapper>
         <Title>Skills</Title>
-        <Desc>Here are some of my skills.
+        <Desc>Here are some of my skills:
         </Desc>
         <SkillsContainer>
           {skills.map((skill) => (

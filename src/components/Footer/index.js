@@ -3,6 +3,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
+import MessageOutlinedIcon from '@mui/icons-material/MessageOutlined';
 import { Bio } from '../../data/constants';
 
 const FooterContainer = styled.div`
@@ -86,7 +87,7 @@ const Copyright = styled.p`
 
 function Footer() {
   return (
-    <FooterContainer>
+    <FooterContainer  id="footer">
       <FooterWrapper>
         <Logo>Contact Me</Logo>
         {/* <Nav>
@@ -98,7 +99,7 @@ function Footer() {
         </Nav> */}
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
-          {/* <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon> */}
+          <SocialMediaIcon href={Bio.twitter} target="display"><MessageOutlinedIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>

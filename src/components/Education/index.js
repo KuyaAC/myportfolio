@@ -1,5 +1,6 @@
 
 import React from 'react'
+import CertImg from '../../images/Cert.png'
 import styled from 'styled-components'
 import Timeline from '@mui/lab/Timeline';
 import TimelineItem from '@mui/lab/TimelineItem';
@@ -77,30 +78,19 @@ const TimelineSection = styled.div`
 
 
 
+
+
 const index = () => {
     return (
         <Container id="education">
             <Wrapper>
-                <Title>Education</Title>
+                <Title>Training Attended</Title>
                 <Desc>
-                    My education has been a journey of self-discovery and growth. My educational details are as follows.
+                I have enrolled in the CLS Academy training program to augment my skills in becoming an Amazon VA and Product Researcher.
                 </Desc>
-                <TimelineSection>
-                    <Timeline>
-                        {education.map((education,index) => (
-                            <TimelineItem >
-                                <TimelineContent sx={{ py: '12px', px: 2 }}>
-                                    <EducationCard education={education}/>
-                                </TimelineContent>
-                                <TimelineSeparator>
-                                    <TimelineDot variant="outlined" color="secondary" />
-                                    {index !== experiences.length  && <TimelineConnector style={{ background: '#854CE6' }} />}
-                                </TimelineSeparator>
-                            </TimelineItem>
-                        ))}
-                    </Timeline>
+                <img src={CertImg} style={{ width: '650px', height: 'auto', borderRadius: '2%' }} />
 
-                </TimelineSection>
+
             </Wrapper>
         </Container>
     )
