@@ -219,53 +219,82 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
+    title: "For Real?",
+    date: "Sept 2024 - Jan 2025",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Developed a web application capable of detecting deepfake audio using artificial intelligence, offering realtime analysis through an interactive user interface. Utilized Python for training and developing the AI model, and implemented the front-end using HTML, CSS, and JavaScript",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
-    tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-    ],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
+      "https://github.com/KuyaAC/myportfolio/blob/master/images/forrealSS.png?raw=true",
+    tags: ["Docker", "AWS", "HTML", "CSS", "Python"],
+    category: "machine learning",
+    github: "https://github.com/bbgitsome/ForReal",
     webapp: "https://trackify.duckdns.org",
+    member: [
+      {
+        name: "Allen Carl Delas Alas",
+        img: "https://avatars.githubusercontent.com/u/114001078?v=4",
+        linkedin:
+          "https://www.linkedin.com/in/allen-carl-delas-alas-7a314326a/",
+        github: "https://github.com/KuyaAC",
+      },
+      {
+        name: "Christian John Parocha",
+        img: "https://avatars.githubusercontent.com/u/103120385?v=4",
+        linkedin: "https://www.linkedin.com/in/cj-parocha/",
+        github: "https://github.com/bbgitsome",
+      },
+      {
+        name: "Stephanie Iraga",
+        img: "https://avatars.githubusercontent.com/u/132188590?v=4",
+        linkedin: "https://www.linkedin.com/in/stephanie-iraga-623775338/",
+        github: "https://github.com/EinahJ",
+      },
+      {
+        name: "Zildjian San Jose",
+        img: "https://avatars.githubusercontent.com/u/103120385?v=4",
+        linkedin:
+          "https://www.linkedin.com/in/allen-carl-delas-alas-7a314326a/",
+        github: "https://github.com/bbgitsome",
+      },
+    ],
   },
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "For Real Simple Version",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "Developed a web application capable of detecting deepfake audio using artificial intelligence, offering realtime analysis through an interactive user interface. Utilized Python for training and developing the AI model, and implemented the front-end using HTML, CSS, and JavaScript",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+      "https://github.com/KuyaAC/myportfolio/blob/master/images/forrealSS.png?raw=true",
+    tags: ["Docker", "AWS", "HTML", "CSS", "Python"],
+    category: "machine learning",
+    github: "https://github.com/bbgitsome/ForReal",
+    webapp: "https://trackify.duckdns.org",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        name: "Allen Carl Delas Alas",
+        img: "https://avatars.githubusercontent.com/u/114001078?v=4",
+        linkedin:
+          "https://www.linkedin.com/in/allen-carl-delas-alas-7a314326a/",
+        github: "https://github.com/KuyaAC",
       },
       {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
+        name: "Christian John Parocha",
+        img: "https://avatars.githubusercontent.com/u/103120385?v=4",
+        linkedin: "https://www.linkedin.com/in/cj-parocha/",
+        github: "https://github.com/bbgitsome",
+      },
+      {
+        name: "Stephanie Iraga",
+        img: "https://avatars.githubusercontent.com/u/132188590?v=4",
+        linkedin: "https://www.linkedin.com/in/stephanie-iraga-623775338/",
+        github: "https://github.com/EinahJ",
+      },
+      {
+        name: "Zildjian San Jose",
+        img: "https://avatars.githubusercontent.com/u/103120385?v=4",
+        linkedin:
+          "https://www.linkedin.com/in/allen-carl-delas-alas-7a314326a/",
+        github: "https://github.com/bbgitsome",
       },
     ],
   },

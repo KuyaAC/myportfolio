@@ -47,7 +47,7 @@ const Projects = ({ openModal, setOpenModal }) => {
               WEB APP'S
             </ToggleButton>
           )}
-          <Divider />
+          {/* <Divider />
           {toggle === "android app" ? (
             <ToggleButton
               active
@@ -63,7 +63,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             >
               ANDROID APP'S
             </ToggleButton>
-          )}
+          )} */}
           <Divider />
           {toggle === "machine learning" ? (
             <ToggleButton
