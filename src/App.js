@@ -52,13 +52,13 @@ function App() {
           </Wrapper>
           <Wrapper>
             {/* <ProjectCards /> */}
-            <Experience />
+            {/* <Experience /> */}
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />
-          <Wrapper>
+          {/* <Wrapper>
             <Education />
-            {/* <Contact /> */}
-          </Wrapper>
+            <Contact />
+          </Wrapper> */}
 
           <Footer />
           {openModal.state && (
