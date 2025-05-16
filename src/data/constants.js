@@ -1,12 +1,8 @@
 export const Bio = {
   name: "Allen Carl Delas Alas",
-  roles: [
-    "Amazon Virtual Assistant",
-    "Amazon Product Sourcer",
-    "Programmer",
-  ],
+  roles: ["Associate Software Eng.", "Web Developer"],
   description:
-    "Hi, I help struggling Amazon FBA and Online Arbitrage Sellers get their winning products to sell on Amazon using KEEPA & SellerAmp SAS. Plus, I have advanced knowledge in Tactical Arbitrage.",
+    "I am a fresh graduate of the Polytechnic University of the Philippines, passionate about software engineering. As an aspiring Software Engineer Associate, I am eager to apply my skills and explore new technologies. Let’s connect and discuss how I can contribute to your projects!",
   github: "https://github.com/KuyaAC",
   resume:
     "https://drive.google.com/file/d/15LHpMFTuCEvVvA1i-eUECkiWI2F-OXKs/view?usp=sharing",
@@ -16,77 +12,71 @@ export const Bio = {
   facebook: "https://www.facebook.com/allencarl.delasalas/",
 };
 
+// https://github.com/rishavchanda/Portfolio-Youtube
+
 export const skills = [
   {
-    title: "Sourcing Skills",
+    title: "Frontend",
     skills: [
       {
-        name: "Manual Sourcing",
-        image:
-          "https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg",
+        name: "HTML",
+        image: "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg",
       },
       {
-        name: "Keepa Sourcing",
-        image:
-          "https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg",
+        name: "CSS",
+        image: "https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg",
       },
       {
-        name: "Amazon to Amazon Flip",
+        name: "Javascript",
         image:
-          "https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg",
+          "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg",
       },
       {
-        name: "Storefront Stalking",
-        image:
-        "https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg",
-    },
-      {
-        name: "Leaf Sourcing",
-        image:
-          "https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg",
+        name: "REACTJS",
+        image: "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg",
       },
       {
-        name: "Newsletter Sourcing",
-        image:
-          "https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg",
+        name: "VUE",
+        image: "https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg",
       },
-      
+      {
+        name: "Bootstrap",
+        image:
+          "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg",
+      },
+      {
+        name: "TailwindCSS",
+        image:
+          "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
+      },
     ],
   },
   {
-    title: "Software and Tools",
+    title: "Backend",
     skills: [
       {
-        name: "Seller Amp SAS",
-        image: "https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg",
+        name: "Python",
+        image: "https://www.vectorlogo.zone/logos/python/python-icon.svg",
       },
       {
-        name: "Keepa",
-        image: "https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg",
+        name: "SQL",
+        image: "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg",
       },
       {
-        name: "JungleScout",
-        image: "https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg",
+        name: "PHP",
+        image: "https://www.vectorlogo.zone/logos/php/php-ar21~bgwhite.svg",
       },
       {
-        name: "MS Office",
+        name: "MySQL",
+        image: "https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg",
+      },
+      {
+        name: "phpMyAdmin",
         image:
-          "https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg",
+          "https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg",
       },
-      {
-        name: "Google Spreadsheet",
-        image:
-          "https://www.vectorlogo.zone/logos/google/google-icon.svg",
-      },
-      {
-        name: "Google Docs",
-        image: "https://www.vectorlogo.zone/logos/google/google-icon.svg",
-      },
-      
     ],
   },
-  
-  
 ];
 
 export const experiences = [
@@ -223,6 +213,8 @@ export const education = [
     degree: "ICSC(X), Science with Computer",
   },
 ];
+
+// PROJECTS PART
 
 export const projects = [
   {
