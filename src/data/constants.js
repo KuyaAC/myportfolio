@@ -318,7 +318,7 @@ export const projects = [
     description:
       "Developed an e-commerce platform with product management, user authentication, and secure transactions. Designed and managed a relational database using SQL, implementing CRUD operations for inventory and users. Implemented the front-end using HTML, CSS, and JavaScript.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://github.com/KuyaAC/myportfolio/blob/master/images/DigitalInk.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
     category: "web app",
     github: "https://github.com/bbgitsome/digital-ink",
@@ -379,7 +379,7 @@ export const projects = [
     description:
       "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+      "https://github.com/KuyaAC/myportfolio/blob/master/images/CAlcu.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/KuyaAC/calcu",
@@ -392,9 +392,9 @@ export const projects = [
     description:
       "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+      "https://github.com/KuyaAC/myportfolio/blob/master/images/Adventure.png?raw=true",
     tags: ["Python", "PyGame"],
-    category: "web app",
+    category: "android app",
     github: "https://github.com/bbgitsome/pygame",
     webapp: "https://whatsapp-clone-rishav.web.app",
   },
@@ -405,9 +405,9 @@ export const projects = [
     description:
       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
     image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+      "https://github.com/KuyaAC/myportfolio/blob/master/images/tiktak.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript"],
-    category: "web app",
+    category: "android app",
     github: "https://github.com/KuyaAC/SmallWeb",
     webapp: "https://github.com/KuyaAC/SmallWeb",
   },
@@ -444,9 +444,9 @@ export const projects = [
     description:
       "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
     image:
-      "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
+      "https://github.com/KuyaAC/myportfolio/blob/master/images/Spacewar.png?raw=true",
     tags: ["Python", "Pygame"],
-    category: "web app",
+    category: "android app",
     github: "https://github.com/KuyaAC/PyGame",
     webapp: "https://github.com/KuyaAC/PyGame",
   },
