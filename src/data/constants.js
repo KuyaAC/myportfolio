@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Allen Carl Delas Alas",
-  roles: ["Associate Software Eng.", "Web Developer"],
+  roles: ["Associate Software Eng.", "Software Developer"],
   description:
     "I am a fresh graduate of the Polytechnic University of the Philippines, passionate about software engineering. As an aspiring Software Engineer Associate, I am eager to apply my skills and explore new technologies. Let’s connect and discuss how I can contribute to your projects!",
   github: "https://github.com/KuyaAC",
@@ -261,6 +261,7 @@ export const projects = [
   {
     id: 0,
     title: "For Real Simple Version",
+    date: "Jan 2025 - Feb 2025",
     description:
       "Developed a web application capable of detecting deepfake audio using artificial intelligence, offering realtime analysis through an interactive user interface. Utilized Python for training and developing the AI model, and implemented the front-end using HTML, CSS, and JavaScript",
     image:
@@ -377,7 +378,7 @@ export const projects = [
     title: "FBA VA Calculator",
     date: "Jun 2023",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "This project is a personal initiative inspired by my experience as an Amazon Virtual Assistant during my college years. One of our daily tasks involved calculating the discounted prices of Amazon products. To streamline this process and improve efficiency, I developed an FBA calculator using HTML, CSS, and JavaScript.",
     image:
       "https://github.com/KuyaAC/myportfolio/blob/master/images/CAlcu.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript"],
@@ -390,20 +391,35 @@ export const projects = [
     title: "Magic Adventure Game",
     date: "August 2023",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "As part of a school requirement to develop a game using Python and the Pygame library, I created a 2D adventure game centered around action and progression. In the game, players control a character equipped with the ability to shoot flame balls at enemies. The objective is to defeat all adversaries in each level to advance through increasingly challenging stages.",
     image:
       "https://github.com/KuyaAC/myportfolio/blob/master/images/Adventure.png?raw=true",
     tags: ["Python", "PyGame"],
     category: "android app",
     github: "https://github.com/bbgitsome/pygame",
     webapp: "https://whatsapp-clone-rishav.web.app",
+    member: [
+      {
+        name: "Allen Carl Delas Alas",
+        img: "https://avatars.githubusercontent.com/u/114001078?v=4",
+        linkedin:
+          "https://www.linkedin.com/in/allen-carl-delas-alas-7a314326a/",
+        github: "https://github.com/KuyaAC",
+      },
+      {
+        name: "Christian John Parocha",
+        img: "https://avatars.githubusercontent.com/u/103120385?v=4",
+        linkedin: "https://www.linkedin.com/in/cj-parocha/",
+        github: "https://github.com/bbgitsome",
+      },
+    ],
   },
   {
     id: 5,
     title: "Tic Tac Toe Web Game",
     date: "Feb 2023",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      "As a personal project to enhance my programming skills, I developed a web-based Tic Tac Toe game using HTML, CSS, and JavaScript. This classic two-player game features a clean and responsive interface, allowing users to take turns placing Xs and Os on a 3x3 grid. The game includes win detection logic, draw conditions, and a reset function, providing a simple yet engaging interactive experience.",
     image:
       "https://github.com/KuyaAC/myportfolio/blob/master/images/tiktak.png?raw=true",
     tags: ["HTML", "CSS", "JavaScript"],
@@ -416,9 +432,9 @@ export const projects = [
     title: "Youtube Clone",
     date: "Jun 2021",
     description:
-      "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
+      "To strengthen my skills in CSS and Bootstrap, I developed a YouTube interface clone as a front-end practice project. This web application replicates the visual design and layout of the YouTube homepage, including elements such as the navigation bar, video thumbnails, sidebar menu, and responsive grid system. The project allowed me to gain hands-on experience with modern UI design principles and responsive web development techniques.",
     image:
-      "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
+      "https://github.com/KuyaAC/myportfolio/blob/master/images/YTclone.png?raw=true",
     tags: ["React Js", "Bootstrap"],
     category: "web app",
     github: "https://github.com/KuyaAC/Youtube_clone",
@@ -429,9 +445,9 @@ export const projects = [
     title: "To Do App",
     date: "Dec 2020 - Jan 2021",
     description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
+      "To further develop my backend programming skills, I created a To-Do List web application using Laravel. This application allows users to add, update, and delete tasks, with all data securely stored in a relational database. The front-end is designed using Bootstrap, providing a clean, responsive, and user-friendly interface. This project helped me gain practical experience in building CRUD functionalities, managing database interactions, and applying modern design frameworks in a full-stack development environment.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
+      "https://github.com/KuyaAC/myportfolio/blob/master/images/To%20Do.png?raw=true",
     tags: ["Laravel", "Javascript", "PHP", "ReactJS"],
     category: "web app",
     github: "https://github.com/KuyaAC/Crud_Laravel",
@@ -442,7 +458,7 @@ export const projects = [
     title: "Space War Game",
     date: "Jan 2021",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      "To improve my Python skills, I developed Space War, a two-player shooting game using Pygame. Each player controls a spaceship and battles by firing projectiles, with real-time movement, collision detection, and win conditions. This project helped reinforce my understanding of game logic and event handling in Python.",
     image:
       "https://github.com/KuyaAC/myportfolio/blob/master/images/Spacewar.png?raw=true",
     tags: ["Python", "Pygame"],
