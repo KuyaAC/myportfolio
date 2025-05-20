@@ -5,7 +5,7 @@ export const Bio = {
     "I am a fresh graduate of the Polytechnic University of the Philippines, passionate about software engineering. As an aspiring Software Engineer Associate, I am eager to apply my skills and explore new technologies. Let’s connect and discuss how I can contribute to your projects!",
   github: "https://github.com/KuyaAC",
   resume:
-    "https://drive.google.com/file/d/15LHpMFTuCEvVvA1i-eUECkiWI2F-OXKs/view?usp=sharing",
+    "https://drive.google.com/file/d/1DURutckdHWqHQRG57qDFE8qvnqju1wpe/view",
   linkedin: "https://www.linkedin.com/in/allen-carl-delas-alas-7a314326a/",
   twitter: "https://discord.com/users/1018060471091335280",
   insta: "https://www.instagram.com/its.ac.forshort/",
@@ -228,7 +228,7 @@ export const projects = [
     tags: ["Docker", "AWS", "HTML", "CSS", "Python"],
     category: "machine learning",
     github: "https://github.com/bbgitsome/ForReal",
-    webapp: "https://github.com/bbgitsome/ForReal",
+    webapp: "https://youtu.be/PeQqOcK5Z3o",
     member: [
       {
         name: "Allen Carl Delas Alas",
@@ -263,13 +263,13 @@ export const projects = [
     title: "For Real Simple Version",
     date: "Jan 2025 - Feb 2025",
     description:
-      "Developed a web application capable of detecting deepfake audio using artificial intelligence, offering realtime analysis through an interactive user interface. Utilized Python for training and developing the AI model, and implemented the front-end using HTML, CSS, and JavaScript",
+      "Developed a simple web application capable of detecting deepfake audio using artificial intelligence, offering realtime analysis through an interactive user interface. Utilized Python for training and developing the AI model, and implemented the front-end using HTML, CSS, and JavaScript",
     image:
       "https://github.com/KuyaAC/myportfolio/blob/master/images/ForRealSSsimple.png?raw=true",
     tags: ["Docker", "AWS", "HTML", "CSS", "Python"],
     category: "machine learning",
     github: "https://github.com/bbgitsome/ForReal",
-    webapp: "https://github.com/bbgitsome/ForReal",
+    webapp: "https://youtu.be/PeQqOcK5Z3o",
     member: [
       {
         name: "Allen Carl Delas Alas",
@@ -310,7 +310,7 @@ export const projects = [
     tags: ["ReactJS", "TailwindCSS", "TMDB API"],
     category: "web app",
     github: "https://github.com/KuyaAC/movie_react",
-    webapp: "https://github.com/KuyaAC/movie_react",
+    webapp: "https://youtu.be/cKw54P7SHPU",
   },
   {
     id: 2,
@@ -323,7 +323,7 @@ export const projects = [
     tags: ["HTML", "CSS", "JavaScript", "PHP", "SQL"],
     category: "web app",
     github: "https://github.com/bbgitsome/digital-ink",
-    webapp: "https://github.com/bbgitsome/digital-ink",
+    webapp: "https://youtu.be/MRW_qewYVns",
     member: [
       {
         name: "Allen Carl Delas Alas",
@@ -371,7 +371,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/KuyaAC/klima",
-    webapp: "https://github.com/KuyaAC/klima",
+    webapp: "https://youtu.be/P1DkMi-VVro",
   },
   {
     id: 10,
@@ -397,7 +397,7 @@ export const projects = [
     tags: ["Python", "PyGame"],
     category: "android app",
     github: "https://github.com/bbgitsome/pygame",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    webapp: "https://youtu.be/dkOlboXIWZw",
     member: [
       {
         name: "Allen Carl Delas Alas",
@@ -425,7 +425,7 @@ export const projects = [
     tags: ["HTML", "CSS", "JavaScript"],
     category: "android app",
     github: "https://github.com/KuyaAC/SmallWeb",
-    webapp: "https://github.com/KuyaAC/SmallWeb",
+    webapp: "https://youtu.be/JhoB4xYghrg",
   },
   {
     id: 6,
@@ -464,7 +464,7 @@ export const projects = [
     tags: ["Python", "Pygame"],
     category: "android app",
     github: "https://github.com/KuyaAC/PyGame",
-    webapp: "https://github.com/KuyaAC/PyGame",
+    webapp: "https://youtu.be/0M_ozU4eEDQ",
   },
 ];
 

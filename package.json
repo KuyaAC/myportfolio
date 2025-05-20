@@ -1,10 +1,9 @@
 {
-  
-  "name": "rishav-chanda-portfolio",
+  "name": "allencarl-portfolio",
   "version": "0.1.0",
   "homepage": "https://KuyaAC.github.io/myportfolio",
   "private": true,
-  "dependencies": { 
+  "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
